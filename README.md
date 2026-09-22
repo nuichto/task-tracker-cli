@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple but solid command-line task tracker built in Python. Lets you add, update, delete tasks and track their status — no databases, no frameworks, just Python's built-in modules.
+Command-line task tracker written in Python. Add, update, delete tasks and track their status. Built with the standard library only
 
 ## Features
 
